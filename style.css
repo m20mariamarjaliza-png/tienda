@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: 'Poppins', system-ui, -apple-system, 'Segoe UI', Arial, sans-serif;
+  color: #111827;
+  background: #f9fafb;
+}
+
+img,
+svg {
+  max-width: 100%;
+}
